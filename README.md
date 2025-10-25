@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html lang="id">
   <head>
     <meta charset="UTF-8" />
@@ -20,12 +21,6 @@
         color: var(--color-text);
         font-family: var(--font-base);
         line-height: 1.6;
-      }
-
-      .dark-mode {
-        --color-bg: #1e1e1e;
-        --color-text: #e0e0e0;
-        --color-accent: #58a477;
       }
 
       header {
